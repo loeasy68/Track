@@ -1,0 +1,21 @@
+.title {
+  text-align: center;
+}
+.centerdiv {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.game-div {
+  border: 5px solid red;
+  height: 35em;
+  width: 20em;
+  display: flex;
+  position: absolute;
+  left: 22em;
+  margin: 0;
+}
+.tools {
+  /* Nothing needed Here yet */
+}
